@@ -2,3 +2,5 @@ GoogleNews-vectors-negative300.bin.gz
 wiki-news-300d-1M.vec 
 wiki-news-300d-1M-subword.vec 
 glove.6B
+cc.en.300.bin.gz
+cc.en.300.bin
